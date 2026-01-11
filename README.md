@@ -1,4 +1,4 @@
-# APT Detection using Hybrid Deep Learning
+'''# APT Detection using Hybrid Deep Learning
 
 This repository implements hybrid deep learning models for detecting **Advanced Persistent Threats (APT)** from network traffic data.  
 The project is designed for **research and educational purposes** in cybersecurity and machine learning.
@@ -13,6 +13,7 @@ The project is designed for **research and educational purposes** in cybersecuri
 ---
 
 ## Project Structure
+```
 APT_DL_Hybrid/
 ├── data/
 │ ├── raw/ # Original datasets
@@ -30,9 +31,7 @@ APT_DL_Hybrid/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
-yaml
-Sao chép mã
+```
 
 ---
 
