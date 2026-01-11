@@ -76,7 +76,9 @@ Install dependencies:
 pip install -r requirements.txt
 
 Train the model:
+
 python src/train.py
 
 Evaluate the model:
+
 python src/evaluate.py
